@@ -1,7 +1,7 @@
 package duck;
 
 /**
- * 抽象主类
+ * 抽象主类啊
  *
  * @author hjsjy
  * @create 2018/10/9
