@@ -1,7 +1,7 @@
 package duck;
 
 /**
- * 鸭子论之实现
+ * 抽象主类
  *
  * @author hjsjy
  * @create 2018/10/9
