@@ -1,6 +1,6 @@
 package duck;
 
-import duck.Quackbehavior;
+
 
 /**
  * 〈一句话功能简述〉<br>
