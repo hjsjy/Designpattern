@@ -1,13 +1,14 @@
 package Observertest;
 
+
 /**
- * 〈一句话功能简述〉<br>
- *
- * @author hjsjy
- * @create 2018/10/9
- * @since 1.0.0
+ * Subject接口为可观察者接口
+ * @
  */
 public interface Subject {
+     /**
+      * @param o 传入参数为观察者接口实现对象
+      */
      void registerObserver(Observer o);
      void removeObserver(Observer o);
      void notifyObserevers();
