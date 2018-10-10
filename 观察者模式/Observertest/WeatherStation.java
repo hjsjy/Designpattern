@@ -11,7 +11,8 @@ public class WeatherStation {
     public static void main(String[] args) {
         WeatherData weatherData = new WeatherData();
        CurrentConditionDisplay currentConditionDisplay = new CurrentConditionDisplay(weatherData);
-       weatherData.setMeasurements(80,68,29.2f);
+        CurrentConditionDisplayM currentConditionDisplayM = new CurrentConditionDisplayM(weatherData);
+        weatherData.setMeasurements(80,68,29.2f);
        weatherData.setMeasurements(90,100,23);
 
     }
