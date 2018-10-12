@@ -1,3 +1,5 @@
+package beverage;
+
 /**
  * 〈一句话功能简述〉<br>
  *
@@ -8,7 +10,7 @@
 public class Espresso extends  Beverage {
 
     public Espresso(){
-        description = "Espresso";
+        description = "beverage.Espresso";
     }
 
     @Override

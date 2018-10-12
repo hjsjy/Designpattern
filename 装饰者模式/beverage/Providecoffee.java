@@ -1,3 +1,5 @@
+package beverage;
+
 /**
  * 〈一句话功能简述〉<br>
  *

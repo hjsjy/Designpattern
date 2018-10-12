@@ -1,3 +1,5 @@
+package beverage;
+
 /**
  * 〈一句话功能简述〉<br>
  *
@@ -8,7 +10,7 @@
 public class DarkRoast extends Beverage {
 
         public DarkRoast(){
-            description = "DarkRoast Coffee";
+            description = "beverage.DarkRoast Coffee";
         }
     @Override
     public double cost() {

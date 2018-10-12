@@ -1,3 +1,5 @@
+package beverage;
+
 /**
  * 〈一句话功能简述〉<br>
  *
@@ -12,7 +14,7 @@ public class Mocha extends CondimentDecorator {
      }
     @Override
     public String getDescription() {
-        return beverage.getDescription()+",Mocha";
+        return beverage.getDescription()+",beverage.Mocha";
     }
 
     @Override
