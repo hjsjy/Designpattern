@@ -1,5 +1,8 @@
 package Observertest;
 
+import java.util.Observable;
+import java.util.Observer;
+
 /**
  * 〈一句话功能简述〉<br>
  *
