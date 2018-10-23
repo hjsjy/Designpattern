@@ -7,6 +7,7 @@ package pizza;
  * @create 2018/10/21
  * @since 1.0.0
  */
+
 public abstract class PizzaStore {
         public Pizaa orderPizza(String type) {
             Pizaa pizaa;
