@@ -1,13 +1,12 @@
 package pizza;
 
 /**
- * 〈一句话功能简述〉<br>
+ * 〈工厂方法模式〉<br>
  *
  * @author hjsjy
  * @create 2018/10/23
  * @since 1.0.0
  */
-
 public class PizzaTest {
     public static void main(String[] args) {
         PizzaStore hualaishipizza = new HualaishiPizzaStore();
